@@ -1,0 +1,14 @@
+/**
+ * create by 1715
+ * */
+.pop1715{
+    position: absolute;
+    padding: 10px 20px;
+    background-color: rgba(0,0,0, 0.5);
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 20px;
+    right: -200px;
+    width: 200px;
+    text-align: center;
+}

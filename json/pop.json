@@ -1,0 +1,26 @@
+/*弹幕数据*/
+[
+  {
+    "mesContent":"这是第一条消息"
+  },
+  {
+    "mesContent":"这是第二条消息"
+  },
+  {
+    "mesContent":"这是第三条消息"
+  },
+  {
+    "mesContent":"这是第四条消息"
+  },
+  {
+    "mesContent":"这是第五条消息"
+  },
+  {
+    "mesContent":"这是第六条消息"
+  },
+  {
+    "mesContent":"这是第七条消息"
+  }
+
+
+]
